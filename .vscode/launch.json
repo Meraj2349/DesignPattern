@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "client",
+            "request": "launch",
+            "mainClass": "factory.client",
+            "projectName": "DesignPattern_8e3422b"
+        },
+        {
+            "type": "java",
+            "name": "InnerStudent",
+            "request": "launch",
+            "mainClass": "designPatternExample.InnerStudent",
+            "projectName": "DesignPattern_8e3422b"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "designPatternExample.Student",
+            "projectName": "DesignPattern_8e3422b"
+        },
+        {
+            "name": "Dart: Run all Tests",
+            "type": "dart",
+            "request": "launch",
+            "program": "./test/"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Mainf",
+            "request": "launch",
+            "mainClass": "Mainf",
+            "projectName": "DesignPattern_8e3422b"
+        }
+    ]
+}
