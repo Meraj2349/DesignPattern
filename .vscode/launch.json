@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BuilderDesignPattern.Main",
+            "projectName": "DesignPattern_95089472"
+        },
+        {
+            "type": "java",
             "name": "client",
             "request": "launch",
             "mainClass": "factory.client",
